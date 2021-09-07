@@ -2,7 +2,7 @@
 Java technical assessment for ezypay
 
 ## Run
-Can be accessed at localhost:8080/subscribe
+Can be accessed at localhost:8080
 
 ## Using the API
 
