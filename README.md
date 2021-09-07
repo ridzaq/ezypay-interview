@@ -8,6 +8,7 @@ Can be accessed at localhost:8080/subscribe
 
 ### Request
 - METHOD: POST
+- URL: localhost:8080/subscribe
 - JSON :
 ```json
   amount: double,
